@@ -1,0 +1,36 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "java-basico_2a9e0bfb",
+            "args": ["Jonathan", "Oliveira", "20", "1.90"]
+        },
+        {
+            "type": "java",
+            "name": "Java_basico",
+            "request": "launch",
+            "mainClass": "Java_basico",
+            "projectName": "java-basico_2a9e0bfb"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "java-basico_2a9e0bfb"
+        }
+    ]
+}
