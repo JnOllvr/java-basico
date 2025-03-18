@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "TryCatch",
+            "projectName": "java-basico_2a9e0bfb"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,7 +23,12 @@
             "request": "launch",
             "mainClass": "AboutMe",
             "projectName": "java-basico_2a9e0bfb",
-            "args": ["Jonathan", "Oliveira", "20", "1.90"]
+            "args": [
+                "Jonathan",
+                "Oliveira",
+                "20",
+                "1.90"
+            ]
         },
         {
             "type": "java",
