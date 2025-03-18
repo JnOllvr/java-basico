@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "FormatadorCep",
+            "projectName": "java-basico_2a9e0bfb"
+        },
+        {
+            "type": "java",
+            "name": "exemploExcecao",
+            "request": "launch",
+            "mainClass": "exemploExcecao",
+            "projectName": "java-basico_2a9e0bfb"
+        },
+        {
+            "type": "java",
             "name": "TryCatch",
             "request": "launch",
             "mainClass": "TryCatch",
