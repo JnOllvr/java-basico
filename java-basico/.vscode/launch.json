@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "java-basico_2a9e0bfb"
+        },
+        {
+            "type": "java",
+            "name": "ForArrays",
+            "request": "launch",
+            "mainClass": "ForArrays",
+            "projectName": "java-basico_2a9e0bfb"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCep",
             "request": "launch",
             "mainClass": "FormatadorCep",
